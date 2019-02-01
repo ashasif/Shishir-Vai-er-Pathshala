@@ -1,0 +1,20 @@
+Initializing files- git init
+Cloning - git clone
+
+Adding a file - git add <file name>
+checking status - git status
+Commiting Files with Message - git commit -m "message"
+pushing files - git push origin master
+pulling files - git pull origin master
+
+git diff
+git log
+git branch <branch name>
+git checkout -b <branch name>
+git merge <vranch nname>
+
+git rebase <base>
+
+git rm file.txt
+git rm --cached file.txt
+
